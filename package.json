@@ -1,0 +1,11 @@
+{
+  "name": "west-lake-introduction",
+  "version": "1.0.0",
+  "description": "杭州西湖介绍网页",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
